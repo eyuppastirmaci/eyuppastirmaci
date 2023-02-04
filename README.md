@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eyüp Pastırmacı</h1>
-<h3 align="center">Full Stack Web & ML Developer</h3>
+<h3 align="center">Full Stack & ML Developer</h3>
 
 - 🌱 I’m currently learning **Go, Docker, Spring Boot & Tailwind CSS.**
 
