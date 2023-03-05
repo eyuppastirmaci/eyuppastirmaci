@@ -27,7 +27,7 @@
   <a href="https://nodejs.org/en/" target="_blank"><img src="https://user-images.githubusercontent.com/60294196/222984448-547c17e0-1467-420c-a84c-9b8aadf81e38.svg" /></a>
 </p>
 
-## **Interests.**
+## **Interests**
 <p align="left">
   <img src="https://user-images.githubusercontent.com/60294196/222985285-3e7f1489-cdcb-4235-8dfe-3650f673f293.svg" />
   <img src="https://user-images.githubusercontent.com/60294196/222985348-3afa3d80-ca96-4855-bebe-31f2f43da143.svg" />
