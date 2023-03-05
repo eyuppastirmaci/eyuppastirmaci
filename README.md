@@ -1,15 +1,36 @@
-<h1 align="center">Hi 👋, I'm Eyüp Pastırmacı</h1>
-<h3 align="center">Full Stack & ML Developer</h3>
-
+# <div align="center">**Hi 👋, I'm Eyüp Pastırmacı**</div>
+## <div align="center">**Full Stack & ML Developer**</div>
 - 🌱 I’m currently learning **Go, Docker, Spring Boot & Tailwind CSS.**
-
 - 📫 How to reach me **pastirmacieyup7@gmail.com**
+## **Connect With Me**
+<a href="https://twitter.com/eyuppastirmaci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eyuppastirmaci" height="30" width="40" /></a><a href="https://kaggle.com/eyppastrmac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="eyppastrmac" height="30" width="40" /></a>
 
-<h3 align="left">Connect with me:</h3>
+## **Languages**
 <p align="left">
-<a href="https://twitter.com/eyuppastirmaci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eyuppastirmaci" height="30" width="40" /></a>
-<a href="https://kaggle.com/eyppastrmac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="eyppastrmac" height="30" width="40" /></a>
+  <img src="https://user-images.githubusercontent.com/60294196/222983406-03a170ab-0d92-4cb7-8ff6-c87f8b499143.svg" />
+  <img src="https://user-images.githubusercontent.com/60294196/222983712-f269d3e1-099b-4bbe-8276-831b04392896.svg" />
+  <img src="https://user-images.githubusercontent.com/60294196/222983223-29389958-45fc-4670-94c2-14d669782972.svg" />
+  <img src="https://user-images.githubusercontent.com/60294196/222983767-f0736ac5-95cc-460f-aa81-f3ed54f78056.svg" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## **Frontend**
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/60294196/222983979-bfd661b6-bedc-41db-9c32-3438a503982b.svg" />
+  <img src="https://user-images.githubusercontent.com/60294196/222983943-7ebfc5fb-c875-449e-a3ee-2a6d9687b507.svg" />
+  <img src="https://user-images.githubusercontent.com/60294196/222985546-c270cbfd-a3dc-4700-8ab6-d6520eb56c4e.svg" />
+</p>
+
+## **Backend**
+
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/60294196/222985067-3d5d2b1d-b958-46cd-99ca-bd040645767a.svg" />
+  <img src="https://user-images.githubusercontent.com/60294196/222984448-547c17e0-1467-420c-a84c-9b8aadf81e38.svg" />
+</p>
+
+## **Interests.**
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/60294196/222985285-3e7f1489-cdcb-4235-8dfe-3650f673f293.svg" />
+  <img src="https://user-images.githubusercontent.com/60294196/222985348-3afa3d80-ca96-4855-bebe-31f2f43da143.svg" />
+  <img src="https://user-images.githubusercontent.com/60294196/222985396-dca4ab7b-e1ac-479c-9ce8-456b6f36f205.svg" />
+  <img src="https://user-images.githubusercontent.com/60294196/222985426-015ebfd3-0f1b-4dde-be80-9898f1315c0e.svg" />
+</p>
