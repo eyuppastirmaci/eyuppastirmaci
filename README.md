@@ -3,11 +3,11 @@
 - 🌱 I’m currently learning **Go, Docker, Spring Boot & Tailwind CSS.**
 - 📫 How to reach me **pastirmacieyup7@gmail.com**
 ## **Connect With Me**
-<a href="https://twitter.com/eyuppastirmaci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eyuppastirmaci" height="30" width="40" /></a><a href="https://kaggle.com/eyppastrmac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="eyppastrmac" height="30" width="40" /></a>
+<a href="https://twitter.com/eyuppastirmaci" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eyuppastirmaci" height="30" width="40" /></a><a href="https://kaggle.com/eyppastrmac" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="eyppastrmac" height="30" width="40" /></a>
 
 ## **Languages**
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/60294196/222983406-03a170ab-0d92-4cb7-8ff6-c87f8b499143.svg" />
+  <a href="https://www.javascript.com/" target="_blank"><img src="https://user-images.githubusercontent.com/60294196/222983406-03a170ab-0d92-4cb7-8ff6-c87f8b499143.svg" /></a>
   <img src="https://user-images.githubusercontent.com/60294196/222983712-f269d3e1-099b-4bbe-8276-831b04392896.svg" />
   <img src="https://user-images.githubusercontent.com/60294196/222983223-29389958-45fc-4670-94c2-14d669782972.svg" />
   <img src="https://user-images.githubusercontent.com/60294196/222983767-f0736ac5-95cc-460f-aa81-f3ed54f78056.svg" />
