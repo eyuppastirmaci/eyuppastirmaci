@@ -8,23 +8,23 @@
 ## **Languages**
 <p align="left">
   <a href="https://www.javascript.com/" target="_blank"><img src="https://user-images.githubusercontent.com/60294196/222983406-03a170ab-0d92-4cb7-8ff6-c87f8b499143.svg" /></a>
-  <img src="https://user-images.githubusercontent.com/60294196/222983712-f269d3e1-099b-4bbe-8276-831b04392896.svg" />
-  <img src="https://user-images.githubusercontent.com/60294196/222983223-29389958-45fc-4670-94c2-14d669782972.svg" />
-  <img src="https://user-images.githubusercontent.com/60294196/222983767-f0736ac5-95cc-460f-aa81-f3ed54f78056.svg" />
+  <a href="https://www.python.org/" target="_blank"><img src="https://user-images.githubusercontent.com/60294196/222983712-f269d3e1-099b-4bbe-8276-831b04392896.svg" /></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://user-images.githubusercontent.com/60294196/222983223-29389958-45fc-4670-94c2-14d669782972.svg" /></a>
+  <a href="https://www.oracle.com/java/" target="_blank"><img src="https://user-images.githubusercontent.com/60294196/222983767-f0736ac5-95cc-460f-aa81-f3ed54f78056.svg" /></a>
 </p>
 
 ## **Frontend**
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/60294196/222983979-bfd661b6-bedc-41db-9c32-3438a503982b.svg" />
-  <img src="https://user-images.githubusercontent.com/60294196/222983943-7ebfc5fb-c875-449e-a3ee-2a6d9687b507.svg" />
-  <img src="https://user-images.githubusercontent.com/60294196/222985546-c270cbfd-a3dc-4700-8ab6-d6520eb56c4e.svg" />
+  <a href="https://reactjs.org/" target="_blank"><img src="https://user-images.githubusercontent.com/60294196/222983979-bfd661b6-bedc-41db-9c32-3438a503982b.svg" /></a>
+  <a href="https://angular.io/" target="_blank"><img src="https://user-images.githubusercontent.com/60294196/222983943-7ebfc5fb-c875-449e-a3ee-2a6d9687b507.svg" /></a>
+  <a href="https://sass-lang.com/" target="_blank"><img src="https://user-images.githubusercontent.com/60294196/222985546-c270cbfd-a3dc-4700-8ab6-d6520eb56c4e.svg" /></a>
 </p>
 
 ## **Backend**
 
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/60294196/222985067-3d5d2b1d-b958-46cd-99ca-bd040645767a.svg" />
-  <img src="https://user-images.githubusercontent.com/60294196/222984448-547c17e0-1467-420c-a84c-9b8aadf81e38.svg" />
+  <a href="https://dotnet.microsoft.com/en-us/" target="_blank"><img src="https://user-images.githubusercontent.com/60294196/222985067-3d5d2b1d-b958-46cd-99ca-bd040645767a.svg" /></a>
+  <a href="https://nodejs.org/en/" target="_blank"><img src="https://user-images.githubusercontent.com/60294196/222984448-547c17e0-1467-420c-a84c-9b8aadf81e38.svg" /></a>
 </p>
 
 ## **Interests.**
