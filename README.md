@@ -15,8 +15,8 @@
 
 ## **Frontend**
 <p align="left">
-  <a href="https://reactjs.org/" target="_blank"><img src="https://user-images.githubusercontent.com/60294196/222983979-bfd661b6-bedc-41db-9c32-3438a503982b.svg" /></a>
-  <a href="https://angular.io/" target="_blank"><img src="https://user-images.githubusercontent.com/60294196/222983943-7ebfc5fb-c875-449e-a3ee-2a6d9687b507.svg" /></a>
+  <a href="https://react.dev/" target="_blank"><img src="https://user-images.githubusercontent.com/60294196/222983979-bfd661b6-bedc-41db-9c32-3438a503982b.svg" /></a>
+  <a href="https://angular.dev/" target="_blank"><img src="https://user-images.githubusercontent.com/60294196/222983943-7ebfc5fb-c875-449e-a3ee-2a6d9687b507.svg" /></a>
   <a href="https://sass-lang.com/" target="_blank"><img src="https://user-images.githubusercontent.com/60294196/222985546-c270cbfd-a3dc-4700-8ab6-d6520eb56c4e.svg" /></a>
 </p>
 
