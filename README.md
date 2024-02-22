@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning **Go, Docker, Spring Boot & Tailwind CSS.**
 - 📫 How to reach me **pastirmacieyup7@gmail.com**
 ## **Connect With Me**
-<a href="https://twitter.com/eyuppastirmaci" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eyuppastirmaci" height="30" width="40" /></a><a href="https://kaggle.com/eyppastrmac" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="eyppastrmac" height="30" width="40" /></a><a href="https://huggingface.co/eyuppastirmaci" alt="hf-link"> ![hf-logo](https://github.com/eyuppastirmaci/eyuppastirmaci/assets/60294196/93cce591-1e54-43b4-8341-486e36e5ac34) </a>
+<a href="https://twitter.com/eyuppastirmaci" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eyuppastirmaci" height="30" width="40" /></a><a href="https://kaggle.com/eyppastrmac" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="eyppastrmac" height="30" width="40" /></a><a href="https://huggingface.co/eyuppastirmaci"> ![hf-logo](https://github.com/eyuppastirmaci/eyuppastirmaci/assets/60294196/93cce591-1e54-43b4-8341-486e36e5ac34) </a>
 
 ## **Languages**
 <p align="left">
