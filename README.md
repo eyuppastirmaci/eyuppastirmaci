@@ -2,7 +2,7 @@
 ## <div align="center">**Full Stack & ML Developer**</div>
 - 📫 How to reach me **pastirmacieyup7@gmail.com**
 ## **Connect With Me**
-[![X](https://github.com/user-attachments/assets/f8db442d-f9a4-4485-a923-2e5b0c46a72a)](https://twitter.com/eyuppastirmaci) &nbsp;
+[![X](https://github.com/user-attachments/assets/f8db442d-f9a4-4485-a923-2e5b0c46a72a)](https://x.com/eyuppastirmaci) &nbsp;
 [![Kaggle](https://github.com/user-attachments/assets/da8a4c51-3335-4a58-8863-61d664727c32)](https://kaggle.com/eyppastrmac) &nbsp;
 [![HuggingFace](https://github.com/eyuppastirmaci/eyuppastirmaci/assets/60294196/794e27a3-e75e-4d83-8a84-60504d1fdbdc)](https://huggingface.co/eyuppastirmaci) &nbsp;
 [![LinkedIn](https://github.com/user-attachments/assets/e1e18398-be61-4b53-9b50-e7fbf783ad14)](https://www.linkedin.com/in/ey%C3%BCp-past%C4%B1rmac%C4%B1-904023365)
