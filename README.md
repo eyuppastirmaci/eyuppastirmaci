@@ -1,5 +1,5 @@
 # <div align="center">**Hi 👋, I'm Eyüp Pastırmacı**</div>
-## <div align="center">**Full Stack & ML Developer**</div>
+## <div align="center">**Full-Stack Engineer**</div>
 - 📫 How to reach me **pastirmacieyup7@gmail.com**
 ## **Connect With Me**
 [![X](https://github.com/user-attachments/assets/f8db442d-f9a4-4485-a923-2e5b0c46a72a)](https://x.com/eyuppastirmaci) &nbsp;
