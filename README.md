@@ -35,9 +35,11 @@
 [![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=WebAssembly&logoColor=white)](https://www.rust-lang.org/what/wasm)
 </p>
 
+&nbsp;
+
 <p>
   
-[![Eyüp Pastırmacı GitHub Stats](https://github-readme-stats.vercel.app/api?username=eyuppastirmaci&show_icons=true&include_all_commits=true&count_private=false&hide_border=false&theme=github_dark&height=165)](https://github.com/eyuppastirmaci)
-&nbsp;&nbsp;
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eyuppastirmaci&layout=compact&hide_border=false&theme=github_dark&height=165)](https://github.com/eyuppastirmaci)
+[![Eyüp Pastırmacı GitHub Stats](https://github-readme-stats.vercel.app/api?username=eyuppastirmaci&show_icons=true&include_all_commits=true&count_private=false&hide_border=false&theme=github_dark)](https://github.com/eyuppastirmaci)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eyuppastirmaci&layout=compact&hide_border=false&theme=github_dark)](https://github.com/eyuppastirmaci)
 </p>
