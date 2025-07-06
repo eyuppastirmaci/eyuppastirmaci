@@ -34,3 +34,14 @@
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=WebAssembly&logoColor=white)](https://www.rust-lang.org/what/wasm)
 </p>
+
+<p>
+  
+[![Eyüp Pastırmacı GitHub Stats](https://github-readme-stats.vercel.app/api?username=eyuppastirmaci&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark)](https://github.com/eyuppastirmaci)
+&nbsp;&nbsp;
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyuppastirmaci&layout=compact&hide_border=true&theme=github_dark"
+  alt="Eyüp Pastırmacı Top Languages"
+  height="165"
+/>
+</p>
