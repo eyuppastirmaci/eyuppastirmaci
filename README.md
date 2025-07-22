@@ -1,24 +1,10 @@
 # <div align="center">**Hi 👋, I'm Eyüp Pastırmacı**</div>
-
-<div align="center">
-  
 [![Eyüp Pastırmacı GitHub Stats](https://github-readme-stats.vercel.app/api?username=eyuppastirmaci&show_icons=true&hide_border=false&bg_color=0,0D1117,161B22,0D1117&title_color=58A6FF&text_color=8B949E&icon_color=79C0FF&rank_icon=github)](https://github.com/eyuppastirmaci)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eyuppastirmaci&layout=compact&hide_border=false&bg_color=0,0D1117,161B22,0D1117&title_color=58A6FF&text_color=8B949E)](https://github.com/eyuppastirmaci)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eyuppastirmaci&layout=donut&hide_border=false&bg_color=0,0D1117,161B22,0D1117&title_color=58A6FF&text_color=8B949E)](https://github.com/eyuppastirmaci)
-</div>
-
-## **Languages**
+## **Tech Stack**
 <p>
-  
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/en/)
-[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
-[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
-</p>
 
-## **Technologies**
-<p>
-  
 [![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev/)
 [![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
@@ -27,6 +13,26 @@
 [![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)](https://www.nginx.com/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org/)
 </p>
+
+## **Projects**
+<table>
+  <tr>
+    <td>
+      <b><a href="https://github.com/eyuppastirmaci/noesis-forge">NoesisForge</a></b> - Self-hosted RAG platform for document intelligence
+    </td>
+    <td align="right" valign="middle">
+      <img src="https://img.shields.io/badge/Status-Under%20Development-2188FF?style=flat-square&labelColor=0969DA&color=6B7280" alt="Under Development">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b><a href="https://github.com/eyuppastirmaci/agenda-pulse">AgendaPulse</a></b> - Microservices-based task and calendar management
+    </td>
+    <td align="right" valign="middle">
+      <img src="https://img.shields.io/badge/Status-Under%20Development-2188FF?style=flat-square&labelColor=0969DA&color=6B7280" alt="Under Development">
+    </td>
+  </tr>
+</table>
 
 ##
 - 📫 How to reach me **pastirmacieyup7@gmail.com**
