@@ -1,11 +1,13 @@
 # <div align="center">**Hi 👋, I'm Eyüp Pastırmacı**</div>
 
-[![Eyüp Pastırmacı GitHub Stats](https://github-readme-stats.vercel.app/api?username=eyuppastirmaci&show_icons=true&theme=graywhite)](https://github.com/eyuppastirmaci)
+<div align="center">
+  
+[![Eyüp Pastırmacı GitHub Stats](https://github-readme-stats.vercel.app/api?username=eyuppastirmaci&show_icons=true&hide_border=false&bg_color=0,0D1117,161B22,0D1117&title_color=58A6FF&text_color=8B949E&icon_color=79C0FF&rank_icon=github)](https://github.com/eyuppastirmaci)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eyuppastirmaci&layout=compact&hide_border=false&theme=graywhite)](https://github.com/eyuppastirmaci)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eyuppastirmaci&layout=donut&hide_border=false&bg_color=0,0D1117,161B22,0D1117&title_color=58A6FF&text_color=8B949E)](https://github.com/eyuppastirmaci)
+</div>
 
 ## **Languages**
-
 <p>
   
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/en/)
