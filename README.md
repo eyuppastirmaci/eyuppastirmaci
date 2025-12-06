@@ -42,6 +42,30 @@
       <img src="https://img.shields.io/badge/Status-Under%20Development-2188FF?style=flat-square&labelColor=0969DA&color=6B7280" alt="Under Development">
     </td>
   </tr>
+  <tr>
+    <td>
+      <b><a href="https://github.com/eyuppastirmaci/echo-stream">EchoStream</a></b> - Real-time chat platform with Kafka event streaming
+    </td>
+    <td align="right" valign="middle">
+      <img src="https://img.shields.io/badge/Status-Under%20Development-2188FF?style=flat-square&labelColor=0969DA&color=6B7280" alt="Under Development">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b><a href="https://github.com/eyuppastirmaci/safekeys">SafeKeys</a></b> - Cross-platform password generator with strength analysis
+    </td>
+    <td align="right" valign="middle">
+      <img src="https://img.shields.io/badge/Status-Completed-22C55E?style=flat-square&labelColor=16A34A&color=22C55E" alt="Completed">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b><a href="https://github.com/eyuppastirmaci/leetcode">LeetCode Solutions</a></b> - Algorithm problem solutions in Java & Kotlin
+    </td>
+    <td align="right" valign="middle">
+      <img src="https://img.shields.io/badge/Status-Ongoing-F59E0B?style=flat-square&labelColor=D97706&color=F59E0B" alt="Ongoing">
+    </td>
+  </tr>
 </table>
 
 ##
