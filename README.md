@@ -57,6 +57,13 @@
     <td align="right" valign="middle">
       <img src="https://img.shields.io/badge/Status-Completed-22C55E?style=flat-square&labelColor=16A34A&color=22C55E" alt="Completed">
     </td>
+  <tr>
+    <td>
+      <b><a href="https://github.com/eyuppastirmaci/strata-optima">StrataOptima</a></b> - CLI tool for duplicate detection and smart file organization
+    </td>
+    <td align="right" valign="middle">
+       <img src="https://img.shields.io/badge/Status-Under%20Development-2188FF?style=flat-square&labelColor=0969DA&color=6B7280" alt="Under Development">
+    </td>
   </tr>
   <tr>
     <td>
