@@ -34,17 +34,10 @@
       <img src="https://img.shields.io/badge/Status-Under%20Development-2188FF?style=flat-square&labelColor=0969DA&color=6B7280" alt="Under Development">
     </td>
   </tr>
-  <tr>
-    <td>
-      <b><a href="https://github.com/eyuppastirmaci/agenda-pulse">AgendaPulse</a></b> - Microservices-based task and calendar management
-    </td>
-    <td align="right" valign="middle">
-      <img src="https://img.shields.io/badge/Status-Under%20Development-2188FF?style=flat-square&labelColor=0969DA&color=6B7280" alt="Under Development">
-    </td>
   </tr>
-  <tr>
+    <tr>
     <td>
-      <b><a href="https://github.com/eyuppastirmaci/echo-stream">EchoStream</a></b> - Real-time chat platform with Kafka event streaming
+      <b><a href="https://github.com/eyuppastirmaci/cogniarium">Cogniarium</a></b> - Analyze, summarize, and semantically retrieve notes.
     </td>
     <td align="right" valign="middle">
       <img src="https://img.shields.io/badge/Status-Under%20Development-2188FF?style=flat-square&labelColor=0969DA&color=6B7280" alt="Under Development">
