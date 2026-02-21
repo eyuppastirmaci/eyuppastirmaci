@@ -23,42 +23,21 @@
     <td>
       <b><a href="https://github.com/eyuppastirmaci/noesis-forge">NoesisForge</a></b> - Self-hosted RAG platform for document intelligence
     </td>
-    <td align="right" valign="middle">
-      <img src="https://img.shields.io/badge/Status-Under%20Development-2188FF?style=flat-square&labelColor=0969DA&color=6B7280" alt="Under Development">
-    </td>
-  </tr>
   </tr>
     <tr>
     <td>
-      <b><a href="https://github.com/eyuppastirmaci/cogniarium">Cogniarium</a></b> - Analyze, summarize, and semantically retrieve notes.
+      <b><a href="https://github.com/eyuppastirmaci/noesis-forge">Shriven</a></b> - Distributed URL shortener built with Kotlin
     </td>
-    <td align="right" valign="middle">
-      <img src="https://img.shields.io/badge/Status-Under%20Development-2188FF?style=flat-square&labelColor=0969DA&color=6B7280" alt="Under Development">
+  </tr>
+  <tr>
+    <td>
+      <b><a href="https://github.com/eyuppastirmaci/strata-optima">StrataOptima</a></b> - CLI tool for duplicate detection and smart file organization
     </td>
   </tr>
   <tr>
     <td>
       <b><a href="https://github.com/eyuppastirmaci/safekeys">SafeKeys</a></b> - Cross-platform password generator with strength analysis
     </td>
-    <td align="right" valign="middle">
-      <img src="https://img.shields.io/badge/Status-Completed-22C55E?style=flat-square&labelColor=16A34A&color=22C55E" alt="Completed">
-    </td>
-  <tr>
-    <td>
-      <b><a href="https://github.com/eyuppastirmaci/strata-optima">StrataOptima</a></b> - CLI tool for duplicate detection and smart file organization
-    </td>
-    <td align="right" valign="middle">
-       <img src="https://img.shields.io/badge/Status-Under%20Development-2188FF?style=flat-square&labelColor=0969DA&color=6B7280" alt="Under Development">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b><a href="https://github.com/eyuppastirmaci/leetcode">LeetCode Solutions</a></b> - Algorithm problem solutions in Java & Kotlin
-    </td>
-    <td align="right" valign="middle">
-      <img src="https://img.shields.io/badge/Status-Ongoing-F59E0B?style=flat-square&labelColor=D97706&color=F59E0B" alt="Ongoing">
-    </td>
-  </tr>
 </table>
 
 ##
