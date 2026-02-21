@@ -26,7 +26,7 @@
   </tr>
     <tr>
     <td>
-      <b><a href="https://github.com/eyuppastirmaci/noesis-forge">Shriven</a></b> - Distributed URL shortener built with Kotlin
+      <b><a href="https://github.com/eyuppastirmaci/shriven">Shriven</a></b> - Distributed URL shortener built with Kotlin
     </td>
   </tr>
   <tr>
