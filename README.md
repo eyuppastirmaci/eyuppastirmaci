@@ -4,6 +4,11 @@
 <table>
   <tr>
     <td>
+      <b><a href="https://github.com/eyuppastirmaci/pecia">Pecia</a></b> - Local search for your files
+    </td>
+  </tr>
+  <tr>
+    <td>
       <b><a href="https://github.com/eyuppastirmaci/noesis-forge">NoesisForge</a></b> - Self-hosted RAG platform for document intelligence
     </td>
   </tr>
